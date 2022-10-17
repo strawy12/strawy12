@@ -10,6 +10,6 @@ Discord Tag : <b>oif#1416</b>
 
 Hello, I'm Hajun Yoo, a game developer and student from Korea who is learning Unity at Gyeonggi Game Meister High School.
 <br>
- If you have any questions, please go to strawy6842@naver.com.
+ If you have any questions, please go to sangwol7928@naver.com.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawy12&show_icons=true&theme=radical)
